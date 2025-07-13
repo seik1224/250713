@@ -7,8 +7,8 @@ function App() {
       {/* 
         컴포넌트 : 재사용가능한 코드조각(버튼, 텍스트, 이미지 등등...)
       */}
-      <Comp></Comp>
-      <Comp></Comp>
+      {/* <Comp></Comp>
+      <Comp></Comp> */}
       <Step01></Step01>
     </div>
     
