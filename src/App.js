@@ -4,6 +4,7 @@ import Step02 from './step/step02';
 import Step03 from './step/step03';
 import Step04 from './step/step04';
 import Step05 from './step/step05';
+import Step06 from './step/step06';
 
 function App() {
   return (
@@ -18,7 +19,8 @@ function App() {
       {/* <Step03 /> */}
       {/* <Step04 title='제목제목' content='게시판 내용!!!' name='게시판작성자1' />
       <Step04 title='제목2' content='게시판22222222' name='게시판작성자22' /> */}
-      <Step05 />
+      {/* <Step05 /> */}
+      <Step06 />
     </div>
     
   );
