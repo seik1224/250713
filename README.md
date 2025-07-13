@@ -24,8 +24,25 @@ npx create-react-app@latest ./
 (react라는 폴더명 금지)
 (영문자소문자로 시작)
 
+---
+
 ## 버전변경
 npm i react@18 
 npm i react-dom@18
 
 npm i react@18 react-dom@18
+
+---
+
+## tailwindCSS
+
+1. https://v3.tailwindcss.com/
+버전 3사용!!!!!
+2. DOCS로 이동
+3. npm i -D tailwindcss@3
+4. npx tailwindcss init
+5. tailwind.config.js에 './src/**/*.{js,jsx,ts,tsx}',
+6. index.css에 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
