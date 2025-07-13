@@ -15,7 +15,8 @@ function App() {
       {/* <Step01></Step01> */}
       {/* <Step02 /> */}
       {/* <Step03 /> */}
-      <Step04 />
+      <Step04 title='제목제목' content='게시판 내용!!!' name='게시판작성자1' />
+      <Step04 title='제목2' content='게시판22222222' name='게시판작성자22' />
     </div>
     
   );
