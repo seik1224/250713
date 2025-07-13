@@ -23,3 +23,9 @@ npx create-react-app@latest ./
 (상위폴더도 마찬가지)
 (react라는 폴더명 금지)
 (영문자소문자로 시작)
+
+## 버전변경
+npm i react@18 
+npm i react-dom@18
+
+npm i react@18 react-dom@18
